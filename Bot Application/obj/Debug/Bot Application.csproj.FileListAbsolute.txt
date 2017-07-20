@@ -1,0 +1,79 @@
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Bot Application.dll.config
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Bot Application.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Bot Application.pdb
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Autofac.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Chronic.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Newtonsoft.Json.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Net.Http.Formatting.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Web.Http.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Web.Http.WebHost.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Autofac.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\Newtonsoft.Json.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Net.Http.Formatting.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Web.Http.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\System.Web.Http.WebHost.xml
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\obj\Debug\Bot Application.dll
+c:\users\manochaudhary\documents\visual studio 2017\Projects\Bot Application\Bot Application\obj\Debug\Bot Application.pdb
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Bot Application.dll.config
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Bot Application.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Bot Application.pdb
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Autofac.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Chronic.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Builder.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Connector.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Newtonsoft.Json.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Net.Http.Formatting.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Web.Http.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Web.Http.WebHost.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Autofac.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Builder.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.Bot.Connector.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\Newtonsoft.Json.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Net.Http.Formatting.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Web.Http.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\System.Web.Http.WebHost.xml
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\obj\Debug\Bot Application.dll
+C:\Users\manochaudhary\Documents\Visual Studio 2017\Projects\Bot Application Team\Bot Application\obj\Debug\Bot Application.pdb
